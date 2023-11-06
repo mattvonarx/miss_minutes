@@ -1,0 +1,12 @@
+ _________________
+│█ |           | █│
+│  |           |  │
+│  |           |  │
+│  |           |  │
+│  |___________|  │
+│     _________   │
+│    │ __      │  │
+│    ││  │     │  │
+\____││__│_____│__│z
+
+A problem has been detected and system will shut down to prevent damage.
