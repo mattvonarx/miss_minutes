@@ -1,5 +1,8 @@
 #!/bin/bash
-clear
+source utils.sh
+
+prep_terminal
+
 sleep 2
 
 cat frame_01.txt
@@ -24,3 +27,4 @@ sleep 4
 
 source frame_05.sh
 
+cleanup_terminal
